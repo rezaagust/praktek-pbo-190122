@@ -1,0 +1,11 @@
+// Looping Laundry Day
+
+
+
+
+Foxie akan mencuci pakaiannya menggunakan mesin cuci. Pakaian yang akan dicuci oleh Foxie sebanyak 20 dan akan dimasukkan ke mesin cuci. Tombol power mesin cuci akan menyala jika semua pakaian Foxie sudah masuk ke mesin cuci.
+
+
+
+
+Buatlah algoritma & pseudocode perulangan dari permasalahan Foxie!
